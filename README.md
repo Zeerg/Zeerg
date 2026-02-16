@@ -1,1 +1,1 @@
-### Hi there 👋 I'm Tom and do security stuff.
+### Hi there 👋 I'm Tom and do stuff.
