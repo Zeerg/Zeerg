@@ -9,6 +9,10 @@ security problems, inspect dependencies, and control what AI agents can do.
 I'm looking for an engineering role where I can build useful security products
 and developer tools.
 
+## GitHub Activity
+
+[![Tom's GitHub activity](https://github-stats-extended.vercel.app/api?username=zeerg&hide_rank=true&hide=stars&show_icons=false&theme=transparent&disable_animations=true)](https://github.com/zeerg?tab=overview)
+
 ## Selected Work
 
 ### [Lisa](https://github.com/turenlabs/lisa)
