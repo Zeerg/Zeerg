@@ -1,13 +1,14 @@
 # Tom Bowyer
 
-I build security tools and developer software, with a recent focus on AI agents,
-software supply chains, and code review.
+I'm a security leader who has spent the past four years helping security
+teams succeed through servant leadership.
 
-I founded Turen Labs. My work explores how software can help people investigate
-security problems, inspect dependencies, and control what AI agents can do.
+I focus on removing blockers, supporting people, and helping teams do their
+best work. I bring deep technical experience to my leadership and keep
+building security tools.
 
-I'm looking for an engineering role where I can build useful security products
-and developer tools.
+I'm looking for a security leadership role where I can support a team,
+develop its people, and improve how it protects the organisation.
 
 ## GitHub Activity
 
