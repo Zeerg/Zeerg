@@ -32,7 +32,6 @@ develop its people, and improve how it protects the organisation.
 | [harness](https://github.com/TurenLabs/harness) | Run multiple Claude Code sessions side by side | TypeScript | 1 |
 | [polyapi-prototype](https://github.com/TurenLabs/polyapi-prototype) | Typed polyglot API compiler and UDS runtime | Go | — |
 | [spice-detections](https://github.com/TurenLabs/spice-detections) | Detection packs for spice | — | — |
-| [homebrew-tap](https://github.com/TurenLabs/homebrew-tap) | Homebrew tap for Turen Labs tools | Ruby | — |
 
 ## Zeerg
 
@@ -44,7 +43,6 @@ develop its people, and improve how it protects the organisation.
 | [cyberorgsim](https://github.com/Zeerg/cyberorgsim) | PARC-based cybersecurity organisation simulator (Tauri desktop app) | JavaScript | — |
 | [quill](https://github.com/Zeerg/quill) | Adversarial-prompt fuzzer for LLMs — mutated prompts + anomaly detection | Python | — |
 | [crowdsec-firewalla](https://github.com/Zeerg/crowdsec-firewalla) | CrowdSec engine + iptables bouncer for Firewalla Gold | Shell | 1 |
-| [MapToGlobe](https://github.com/Zeerg/MapToGlobe) | Source for the MapToGlobe website | Vue | 1 |
 | [tech-news-review](https://github.com/Zeerg/tech-news-review) | Agent skill for verified AI/security news briefings with CISA KEV cross-checks | — | — |
 
 ## Writing
