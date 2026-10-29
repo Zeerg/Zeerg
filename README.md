@@ -1,46 +1,53 @@
 # Tom Bowyer
 
-I'm a security leader who has spent the past four years helping security
-teams succeed through servant leadership.
-
-I focus on removing blockers, supporting people, and helping teams do their
-best work. I bring deep technical experience to my leadership and keep
-building security tools.
+I'm a security leader and hands-on builder. For the past four years I've led
+security teams through servant leadership — removing blockers, supporting
+people, and helping teams do their best work — while continuing to ship
+security tools and vulnerability research myself.
 
 I'm looking for a security leadership role where I can support a team,
 develop its people, and improve how it protects the organisation.
 
-## GitHub Activity
+## What I build
 
-[![Tom's GitHub activity](https://github-stats-extended.vercel.app/api?username=zeerg&hide_rank=true&hide=stars&show_icons=false&theme=transparent&disable_animations=true)](https://github.com/zeerg?tab=overview)
+- **Agentic security tooling** — AI-assisted analysis and review that stays
+  inside narrow, verifiable boundaries
+- **Vulnerability research** — end-to-end CVE reproduction labs with retained,
+  gate-checked evidence
+- **Detection and defense** — honeypots, exposure checkers, and
+  supply-chain tooling
 
-## Selected Work
+## TurenLabs
 
-### [Lisa](https://github.com/turenlabs/lisa)
-An AI pull-request reviewer built around narrow, structured questions rather
-than free-form review explanations.
+| Project | What it does | Language | ★ |
+| --- | --- | --- | --- |
+| [turenos](https://github.com/TurenLabs/turenos) | Local-first AI security agent harness; works with most models and providers | TypeScript | 8 |
+| [batou](https://github.com/TurenLabs/batou) | Catches risky code while Claude Code writes it, before it lands | Go | 5 |
+| [secpapers](https://github.com/TurenLabs/secpapers) | Living catalog of LLM security research, updated daily from arXiv | Python | 3 |
+| [omc](https://github.com/TurenLabs/omc) | Drop-in npm/pip that never runs install scripts; deny-by-default supply-chain security | Rust | 2 |
+| [homebrew-turenos](https://github.com/TurenLabs/homebrew-turenos) | Homebrew tap for TurenOS | Ruby | 2 |
+| [lisa](https://github.com/TurenLabs/lisa) | GitHub Action auditing PRs for secrets, vulnerabilities, and unneeded complexity | Python | 1 |
+| [spice](https://github.com/TurenLabs/spice) | OSS exposure checker for developers | Go | 1 |
+| [jast](https://github.com/TurenLabs/jast) | Experimental SAST desktop app built on TypeSafe AI's Jev | Rust | 1 |
+| [harness](https://github.com/TurenLabs/harness) | Run multiple Claude Code sessions side by side | TypeScript | 1 |
+| [polyapi-prototype](https://github.com/TurenLabs/polyapi-prototype) | Typed polyglot API compiler and UDS runtime | Go | — |
+| [spice-detections](https://github.com/TurenLabs/spice-detections) | Detection packs for spice | — | — |
+| [homebrew-tap](https://github.com/TurenLabs/homebrew-tap) | Homebrew tap for Turen Labs tools | Ruby | — |
 
-Lisa reads PR changes through GitHub's API without running PR code. It loads
-configuration from the base commit and fails checks when required review
-coverage is incomplete.
+## Zeerg
 
-### [OMC](https://github.com/turenlabs/omc)
-Dependency tooling for npm and Python, focused on install-time security.
-
-OMC checks package capabilities against explicit policies, skips install
-scripts, and compares dependency versions for changes in behavior.
-Its checks are not a runtime sandbox.
-
-### [TurenOS](https://github.com/turenlabs/turenos)
-A security engineering workbench built from OpenCode.
-
-The project brings together a desktop client, an agent backend, security tools,
-and cross-platform packaging. It also documents execution policies and trust
-boundaries.
+| Project | What it does | Language | ★ |
+| --- | --- | --- | --- |
+| [helix-honeypot](https://github.com/Zeerg/helix-honeypot) | Kubernetes API honeypot with active-defense capabilities | Go | 44 |
+| [haproxy-quic-cves-2026](https://github.com/Zeerg/haproxy-quic-cves-2026) | Digest-pinned reproduction lab + network PoCs for HAProxy QUIC CVEs | Python | — |
+| [bind-cves-2026](https://github.com/Zeerg/bind-cves-2026) | Isolated Docker reproduction labs for four BIND 2026 CVEs | Python | — |
+| [cyberorgsim](https://github.com/Zeerg/cyberorgsim) | PARC-based cybersecurity organisation simulator (Tauri desktop app) | JavaScript | — |
+| [quill](https://github.com/Zeerg/quill) | Adversarial-prompt fuzzer for LLMs — mutated prompts + anomaly detection | Python | — |
+| [crowdsec-firewalla](https://github.com/Zeerg/crowdsec-firewalla) | CrowdSec engine + iptables bouncer for Firewalla Gold | Shell | 1 |
+| [MapToGlobe](https://github.com/Zeerg/MapToGlobe) | Source for the MapToGlobe website | Vue | 1 |
+| [tech-news-review](https://github.com/Zeerg/tech-news-review) | Agent skill for verified AI/security news briefings with CISA KEV cross-checks | — | — |
 
 ## Writing
 
-I write about security engineering, AI agents, and the decisions behind
-the tools I build.
-
-[Read my technical posts](https://blog.turen.io/)
+I write about security engineering, AI agents, and the decisions behind the
+tools I build — [blog.turen.io](https://blog.turen.io/)
